@@ -16,6 +16,7 @@ int main()
 
     cout << endl;
     cout << "So can I call you " << color << " " << name << "?" << endl;
+	// test 1 2 3
 
     return 0;
 }
